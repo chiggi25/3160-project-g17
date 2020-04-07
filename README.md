@@ -4,12 +4,14 @@ Group 17 Creators: Connor Higgins, Jack Hitchcock, Ashley Hutchinson
 
 Table of Contents:
 
-Introduction
-Use Case
+Scope
 Business Rules
+Use Case
 EERD
 MySQL Queries (three)
 Trigger
 Stored Procedure
 Web/App Implementation (Optional) or Description of Future Work
 MySQL dump
+
+
