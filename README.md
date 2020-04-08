@@ -35,6 +35,7 @@ A location can receive many orders
 ![usecase](https://user-images.githubusercontent.com/46718667/78734337-ffbbe700-7915-11ea-988a-d1167049d574.JPG)
 
 4. EERD:
+
 ![EERD](https://user-images.githubusercontent.com/46718667/78734299-e9ae2680-7915-11ea-82e4-74d29d0c03ad.JPG)
 
 5. Data Dictionary: 
