@@ -32,12 +32,10 @@ A location can receive many orders
 
 3. Use Case: 
 	This delivery service can be very effective for conferences and business meetings mid day where individuals don’t have the time to run out and grab food, so they call for on campus delivery either for themselves, or the group of people they’re with. This would be especially useful during times like job fairs where company representatives have to be on campus for long periods of time and as a courtesy to them, the department hosting the event count could provide said service. Along with that, students who don’t have time to grab food during back to back classes could use this service to have something delivered directly to their classroom. This could be helpful to ensure students have the ability to eat during a busy schedule.
-
-
-
+![usecase](https://user-images.githubusercontent.com/46718667/78734337-ffbbe700-7915-11ea-988a-d1167049d574.JPG)
 
 4. EERD:
-![](/filename%20EERD.JPG)
+![EERD](https://user-images.githubusercontent.com/46718667/78734299-e9ae2680-7915-11ea-82e4-74d29d0c03ad.JPG)
 
 5. Data Dictionary: 
 The data dictionary could be used to store all of the information of all the certified delivery men and women who are allowed on campus to ensure the safety of the students and faculty. Along with that, you can use the data dictionary to track the information of each order being taken and delivered, tracking the delivery number, cost of the food, location of the order, route to the objective, etc. This could be crucial to have all of the information that the store needs, to know who is ordering the food, what the order is and who to give it to for delivery. It’s also important for the university to be tracking who’s on their campus to maintain a safe environment.
