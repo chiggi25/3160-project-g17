@@ -32,6 +32,7 @@ A location can receive many orders
 
 3. Use Case: 
 	This delivery service can be very effective for conferences and business meetings mid day where individuals don’t have the time to run out and grab food, so they call for on campus delivery either for themselves, or the group of people they’re with. This would be especially useful during times like job fairs where company representatives have to be on campus for long periods of time and as a courtesy to them, the department hosting the event count could provide said service. Along with that, students who don’t have time to grab food during back to back classes could use this service to have something delivered directly to their classroom. This could be helpful to ensure students have the ability to eat during a busy schedule.
+
 ![usecase](https://user-images.githubusercontent.com/46718667/78734337-ffbbe700-7915-11ea-988a-d1167049d574.JPG)
 
 4. EERD:
