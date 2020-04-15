@@ -40,6 +40,7 @@ A location can receive many orders
 
 5. Data Dictionary: 
 The data dictionary could be used to store all of the information of all the certified delivery men and women who are allowed on campus to ensure the safety of the students and faculty. Along with that, you can use the data dictionary to track the information of each order being taken and delivered, tracking the delivery number, cost of the food, location of the order, route to the objective, etc. This could be crucial to have all of the information that the store needs, to know who is ordering the food, what the order is and who to give it to for delivery. It’s also important for the university to be tracking who’s on their campus to maintain a safe environment.
+![Capturerrrrr](https://user-images.githubusercontent.com/46718667/79292246-a5370380-7e9e-11ea-9412-b10227a7a64a.JPG)
 
 Tables: 
 Persons: PK: personID(string, name(string), email(string), phone number(int)
