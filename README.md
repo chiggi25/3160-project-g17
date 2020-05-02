@@ -13,7 +13,7 @@ Table of Contents:
 7. Trigger - The automated response to occur once procedure is initiated
 8. Stored Procedure - The type of code, once ran, sets off the trigger
 9. Description of Future Work - 
-10. MySQL dump - 
+10. [MySQL dump](https://github.com/chiggi25/3160-project-g17/tree/master/project)
 
 1. Scope: 
 
@@ -61,4 +61,4 @@ Driver: PK: licenseNumber(int), date they were hired(string), description of the
 
 9. Description of Future Work - 
 
-10. MySQL dump - 
+10. [MySQL dump](https://github.com/chiggi25/3160-project-g17/tree/master/project)
