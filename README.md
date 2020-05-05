@@ -59,11 +59,8 @@ Driver: PK: licenseNumber(int), date they were hired(string), description of the
 
 8. Stored Procedure - This is meant to expidite the creation process for new persons added to the database
 
-CREATE DEFINER=`root`@`localhost` PROCEDURE `create_person` (p_id int, pname varchar(100), pemail varchar(100))
-begin
-	insert into person(person_id, person_name, person_email) 
-    values(p_id, pname, pemail);
-end
+![Capturerrreeeee](https://user-images.githubusercontent.com/46718667/81114929-e98f4f80-8ef0-11ea-8bb6-a3a642bdf8f9.JPG)
+
 
 9. Description of Future Work - There are definitely many more features that we have yet to implement. Depending on how robust the system is needed to be, many different columns will be added to help the system automate the service as much as possible. The current setup is a skeleton including the minimum requirements for the system. More meetings with the service providers will give us a better idea of what to implement in the future.
 
