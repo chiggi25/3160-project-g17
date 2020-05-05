@@ -1,6 +1,6 @@
 # 3160-project-g17
 A database for a food delivery service
-Group 17 Creators: Connor Higgins, Ashley Hutchinson, JKack Hitchcock
+Group 17 Creators: Connor Higgins, Ashley Hutchinson, Jack Hitchcock
 
 Table of Contents:
 
