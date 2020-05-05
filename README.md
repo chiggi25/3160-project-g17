@@ -53,7 +53,10 @@ Locations: PK = locationID(string), name of location(string), pickup description
 Items: PK: itemID, name of the item(string), price of the item(double), calorie count of the item(int)
 Driver: PK: licenseNumber(int), date they were hired(string), description of their car(string), rating(int 0 - 10)
 
-6. MySQL Queries (three) - These are queries which display the capabilities of our system 
+6. MySQL Queries - These are queries which display the capabilities of our system 
+
+![ccccccccapture](https://user-images.githubusercontent.com/46718667/81115289-776b3a80-8ef1-11ea-8f47-c6827a44c236.JPG)
+
 
 7. Trigger - Once the procedure is initiated there is an automated response. 
 
