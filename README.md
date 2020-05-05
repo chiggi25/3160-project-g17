@@ -54,9 +54,10 @@ Items: PK: itemID, name of the item(string), price of the item(double), calorie 
 Driver: PK: licenseNumber(int), date they were hired(string), description of their car(string), rating(int 0 - 10)
 
 6. MySQL Queries - These are queries which display the capabilities of our system 
-
+1:
 ![ccccccccapture](https://user-images.githubusercontent.com/46718667/81115289-776b3a80-8ef1-11ea-8f47-c6827a44c236.JPG)
-
+2:
+![Capppppture](https://user-images.githubusercontent.com/46718667/81120833-750dde00-8efb-11ea-8015-1cb1ff43e4db.JPG)
 
 7. Trigger - Once the procedure is initiated there is an automated response. 
 
