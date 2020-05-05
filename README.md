@@ -57,8 +57,14 @@ Driver: PK: licenseNumber(int), date they were hired(string), description of the
 
 7. Trigger - Once the procedure is initiated there is an automated response. 
 
-8. Stored Procedure - 
+8. Stored Procedure - This is meant to expidite the creation process for new persons added to the database
 
-9. Description of Future Work - 
+CREATE DEFINER=`root`@`localhost` PROCEDURE `create_person` (p_id int, pname varchar(100), pemail varchar(100))
+begin
+	insert into person(person_id, person_name, person_email) 
+    values(p_id, pname, pemail);
+end
+
+9. Description of Future Work - There are definitely many more features that we have yet to implement. Depending on how robust the system is needed to be, many different columns will be added to help the system automate the service as much as possible. The current setup is a skeleton including the minimum requirements for the system. More meetings with the service providers will give us a better idea of what to implement in the future.
 
 10. [MySQL dump](https://github.com/chiggi25/3160-project-g17/tree/master/project)
